@@ -5,3 +5,7 @@ class test{
 		this.s = "asd";
 	}
 }
+
+interface a {
+	name: string;
+}
